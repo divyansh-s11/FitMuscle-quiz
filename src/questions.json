@@ -1,0 +1,59 @@
+[
+  {
+    "question": "What is your primary fitness goal?",
+    "a": "Gain muscles and get stronger",
+    "b": "To look like a movie actor",
+    "c": "Boost self-confidence",
+    "d": "Maintain optimal health"
+  },
+  {
+    "question": "Your biggest fitness struggle right now is:",
+    "a": "I’m too busy",
+    "b": "I have no idea what exercise to do, what to eat",
+    "c": "Staying motivated and consistent",
+    "d": "I need support and accountability"
+  },
+  {
+    "question": "Your thoughts on aesthetics?",
+    "a": "That’s what I want. Other people have them. How do I get them?",
+    "b": "They are OK, but not the only goal",
+    "c": "I don't really care about aesthetics. I'm more interested in the health benefits of fitness",
+    "d": "I don’t know anything about them"
+  },
+  {
+    "question": "How motivated are you to reach your fitness goals?",
+    "a": "I’m ready, let’s do this",
+    "b": "Hopeful, but could use some guidance",
+    "c": "I’m struggling with some motivation",
+    "d": "I’m not always motivated, but I know I need to be"
+  },
+  {
+    "question": "What is your primary fitness goal?",
+    "a": "I want to lose fat and look attractive",
+    "b": "I’m too skinny, so I want to gain weight and look attractive",
+    "c": "I want to build strength",
+    "d": "I want body curves"
+  },
+  {
+    "question": "Your biggest fitness struggle right now is:",
+    "a": "I’m too busy",
+    "b": "I have no idea what exercise to do, what to eat",
+    "c": "Staying motivated and consistent",
+    "d": "I need support and accountability"
+  },
+  {
+    "question": "Do you want to build muscles on a specific body part?",
+    "a": "Yes, I mainly want to build my glutes",
+    "b": "I want to build proportional muscle on my upper and lower body",
+    "c": "I don’t know much about muscles, I just want a model like body",
+    "d": "I want to focus on my lower body"
+  },
+  {
+    "question": "How motivated are you to reach your fitness goals?",
+    "a": "I’m ready, let’s do this",
+    "b": "Hopeful, but could use some guidance",
+    "c": "I’m struggling with some motivation",
+    "d": "I’m not always motivated, but I know I need to be"
+  }
+
+]
